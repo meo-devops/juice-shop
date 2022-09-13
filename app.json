@@ -20,5 +20,5 @@
   "website": "https://owasp-juice.shop",
   "repository": "https://github.com/juice-shop/juice-shop",
   "logo": "https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo.png",
-  "sas_token": "https://ordersmeo.blob.core.windows.net/dummy?sp=r&st=2022-09-13T15:45:36Z&se=2022-09-20T23:45:36Z&spr=https&sv=2021-06-08&sr=c&sig=WnzWpo5Qzbk6PwR0AFx3NXFCCMaXT5oe9Nfeo%2Bf1ahY%3D"
+  "sas_token": "https://ordersmeo.blob.core.windows.net/dummy/dummy.txt?sp=r&st=2022-09-13T15:52:32Z&se=2022-09-13T23:52:32Z&spr=https&sv=2021-06-08&sr=b&sig=pfnKfa%2FO0AEM4uuhAmSxl2WzHKDctHj%2B4WoY9UOINko%3D"
 }
